@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>arrow_redo.png</file>
+        <file>arrow_undo.png</file>
+        <file>cut.png</file>
+        <file>disk.png</file>
+        <file>page.png</file>
+        <file>page_copy.png</file>
+        <file>page_paste.png</file>
+        <file>page_save.png</file>
+        <file>page_white.png</file>
+        <file>page_white_code.png</file>
+        <file>page_white_copy.png</file>
+        <file>folder.png</file>
+    </qresource>
+</RCC>
